@@ -1,0 +1,7 @@
+<option value="NULL"></option>
+<option value="Bismark">Bismark</option>
+<option value="Fargo">Fargo</option>
+<option value="Garrison">Garrison</option>
+<option value="Grand Fork">Grand Forks</option>
+<option value="Minot">Minot</option>
+<option value="Williston">Williston</option>

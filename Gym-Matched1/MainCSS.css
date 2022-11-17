@@ -1,0 +1,109 @@
+
+	input[type=button], input[type=submit], input[type=reset] {
+		background-color: #20B2AA;
+		border: none;
+		color: white;
+		padding: 10px 27px;
+		text-decoration: none;
+		margin: 4px 2px;
+		cursor: pointer;
+	}
+    .logbox {
+        border: 10px solid black;
+        margin-top: 5%;
+        padding-top:2%;
+        margin-bottom: 15%;
+          padding-bottom:2%;
+        margin-right: 35%;
+        margin-left: 35%;
+        background-color: #084DA9;
+      font-size: 1.0em;
+        color: #EAECEE;
+        font-weight: bold;
+      }
+      
+      input[type=text] {
+      border: 2px solid black;
+        width: 75%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        font-size: .8em;
+        color: black;
+      }
+      input[type=password] {
+      border: 2px solid black;
+        width: 75%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+      font-size: .8em;
+        color: black;
+      
+    }
+    
+    .dropdown {
+        position: relative;
+        display: inline-block;
+
+    }
+    .dropdown-content {
+        display: none;
+        position:fixed;
+        background-color:#084DA9;
+        min-width: 10%;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        padding: 12px 16px;
+        z-index: 1;
+    border: 3px solid black;
+
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+        border: 3px solid black;
+
+    }
+       
+    ul {
+        list-style-type: none;
+        padding: 0;
+        overflow:hidden;
+        background-color: #084DA9;
+        border: 2px solid black;
+    max-width: auto;
+    }
+div.gallery {
+	
+    float: right;
+    top: 1%;
+    left: 5%;
+    width: 180px;
+    position: sticky;
+  
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  a:link {
+      color: #ffffff;
+         text-decoration: none;
+  
+  }
+  
+  a:visited {
+      color: #ffffff;
+         text-decoration: none;
+  
+  }
+  
+b {
+	color: #ffffff;
+	font-variant: small-caps;
+	font-weight: bold;
+	font-size: 1.05em;
+}
+

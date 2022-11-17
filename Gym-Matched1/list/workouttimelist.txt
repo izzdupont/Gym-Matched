@@ -1,0 +1,7 @@
+<option value="NULL"></option>
+<option value="Early Morning">Early Morning 6AM-9AM</option>
+<option value="Normal Morning">Normal Morning 10AM-12PM</option>
+<option value="Noon">Noon 12PM-3PM</option>
+<option value="Afternoon">Afternoon 3PM-7PM</option>
+<option value="Night">Night 7PM-10PM</option>
+<option value="Midnighter">Midnighter 10PM-6AM</option>
